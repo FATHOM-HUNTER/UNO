@@ -1,5 +1,5 @@
 # UNO
-A simple single player implemntation of the game UNO in Java.
+The UNO project is a Java-based application aimed at simulating the popular card game UNO. It utilizes Java's Swing framework for GUI development and integrates with SQLite for data management. The project includes various modules for game logic, UI components, database handling, and screen management.
 
 ### Features
 - A decent GUI written in Java Swing
