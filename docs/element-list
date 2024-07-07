@@ -1,0 +1,9 @@
+module:UnoModule
+com.unoapp.uno
+com.unoapp.uno.abstracts
+com.unoapp.uno.engine
+com.unoapp.uno.models
+com.unoapp.uno.ui.components
+com.unoapp.uno.ui.drawables
+com.unoapp.uno.ui.screens
+com.unoapp.uno.utils
